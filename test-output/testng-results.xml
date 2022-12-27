@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T07:34:27Z" name="Default suite" finished-at="2022-12-15T07:36:03Z" duration-ms="95959">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T07:34:27Z" name="Default test" finished-at="2022-12-15T07:36:03Z" duration-ms="95959">
+      <class name="com.flib.setpinto.Assert">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:com.flib.setpinto.Assert@e383572]" started-at="2022-12-15T07:34:27Z" name="beforeclass" finished-at="2022-12-15T07:36:03Z" duration-ms="95915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method signature="id()[pri:1, instance:com.flib.setpinto.Assert@e383572]" started-at="2022-12-15T07:36:03Z" name="id" finished-at="2022-12-15T07:36:03Z" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- id -->
+        <test-method signature="empno()[pri:2, instance:com.flib.setpinto.Assert@e383572]" started-at="2022-12-15T07:36:03Z" name="empno" finished-at="2022-12-15T07:36:03Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- empno -->
+        <test-method signature="name()[pri:3, instance:com.flib.setpinto.Assert@e383572]" started-at="2022-12-15T07:36:03Z" name="name" finished-at="2022-12-15T07:36:03Z" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- name -->
+      </class> <!-- com.flib.setpinto.Assert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

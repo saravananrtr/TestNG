@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <groups>
+      <run>
+        <include name="default"/>
+        <include name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.flib.setpinto.MobileSearch">
+        <methods>
+          <include name="afterclass"/>
+          <include name="before"/>
+          <include name="after"/>
+          <include name="beforeclass"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- com.flib.setpinto.MobileSearch -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
